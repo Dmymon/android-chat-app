@@ -1,0 +1,13 @@
+<resources>
+    <string name="header_chat">MyChat</string>
+    <string name="header_main">BTme:)</string>
+    <string name="btn_send">send</string>
+    <string name="btn_chats">Chats</string>
+    <string name="btn_settings">Settings</string>
+
+    <string name="popUp_Delete">Choose Device To Remove</string>
+    <string name="popUp_Add">New Devices Discovered</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

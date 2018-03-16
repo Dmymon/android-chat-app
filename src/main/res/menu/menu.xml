@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/option1"
+        android:title="Add New Contact"
+        app:showAsAction="withText"
+        android:onClick="AddNewContact"
+        />
+
+    <item
+        android:id="@+id/option2"
+        android:title="Create Group"
+        app:showAsAction="withText"
+        />
+</menu>
